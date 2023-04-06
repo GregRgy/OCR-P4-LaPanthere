@@ -1040,3 +1040,24 @@ h4 {
         text-align: center;
     }
 }
+.h2-title {
+    max-width: 62rem;
+    margin: auto;
+}
+h2 {
+    font-size: 22px;
+    line-height: 1.4em;
+}
+.citation {
+    font-size: 18px;
+    max-width: 51rem;
+    margin: auto;
+}
+.citation>span {
+    font-weight: bold;
+    font-style: italic;
+}
+.h2-portfolio {
+    max-width: 42rem;
+    margin: auto;
+}
